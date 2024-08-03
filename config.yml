@@ -1,0 +1,8 @@
+password_length: 32
+excluded_passwords:
+  - password123
+  - letmein
+  - dragonball
+  - iloveyou
+  - monkey123
+  - 1234
